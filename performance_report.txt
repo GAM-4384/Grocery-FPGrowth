@@ -1,0 +1,23 @@
+Performance Analysis Report
+==============================
+
+Support: 0.005
+Execution Time: 14.4429 seconds
+Itemsets Found: 1001
+------------------------------
+Support: 0.01
+Execution Time: 5.2444 seconds
+Itemsets Found: 333
+------------------------------
+Support: 0.02
+Execution Time: 1.4250 seconds
+Itemsets Found: 122
+------------------------------
+Support: 0.03
+Execution Time: 0.4398 seconds
+Itemsets Found: 63
+------------------------------
+Support: 0.05
+Execution Time: 0.1849 seconds
+Itemsets Found: 31
+------------------------------
